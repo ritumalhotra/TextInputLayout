@@ -36,7 +36,7 @@
             app:layout_constraintTop_toTopOf="parent"
             app:errorEnabled="true">
             <com.google.android.material.textfield.TextInputEditText
-                android:id="@+id/password"
+                android:id="@+id/inputPassword"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="@string/password"
